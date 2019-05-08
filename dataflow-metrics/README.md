@@ -1,12 +1,12 @@
-# Project Name
+# Dataflow KafkaToBeamSQLToKafka
 
-Project Description
+Produce Kafka messages in Avro format. Dataflow pipeline reads from Kafka topic run BeamSQL and write it back to another Kafka topic.
 
 
-## Pipeline
+## KafkaAvroBeamSQLToKafka Pipeline
 
-[SamplePipeline](src/main/java/com/google/cloud/pso/pipeline/SamplePipeline.java) -
-A sample pipeline which can be used as a base for creating a real Dataflow pipeline.
+[KafkaAvroBeamSQLToKafka](src/main/java/com/google/cloud/pso/pipeline/KafkaAvroBeamSQLToKafka.java) -
+
 
 ## Getting Started
 
