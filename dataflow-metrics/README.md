@@ -7,7 +7,7 @@ Produce Kafka messages in Avro format. Dataflow pipeline reads from Kafka topic 
 
 [KafkaAvroBeamSQLToKafka](https://github.com/bksureshkumar/dataflow/blob/master/dataflow-metrics/src/main/java/org/metrics/pipeline/KafkaAvroBeamSQLToKafka.java) -Kafka to BeamSQL to Kafka pipeline
 </br>
-[KafkaAvroProducer](src/main/java/com/google/cloud/pso/pipeline/KafkaAvroProducer.java) -Kafka producer
+[KafkaAvroProducer](https://github.com/bksureshkumar/dataflow/blob/master/dataflow-metrics/src/main/java/org/metrics/pipeline/KafkaAvroProducer.java) - Kafka Avro producer
 ## Getting Started
 
 ### Requirements
