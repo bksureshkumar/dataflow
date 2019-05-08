@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.11">
+<file name="/Users/sbalakrishnan/sothanai/java/dataflow-kafka-beamsql/dataflow-metrics/src/main/java/org/metrics/pipeline/KafkaAvroProducer.java">
+<error line="29" severity="error" message="Extra separation in import group before &apos;java.util.Properties&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="29" severity="error" message="Import java.util.Properties appears after other imports that it should precede" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="31" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="32" column="32" severity="error" message="Variable &apos;classSchema&apos; should be in ALL_CAPS (if it is a constant) or be private (otherwise)." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/Users/sbalakrishnan/sothanai/java/dataflow-kafka-beamsql/dataflow-metrics/src/main/java/org/metrics/pipeline/SamplePipeline.java">
+</file>
+<file name="/Users/sbalakrishnan/sothanai/java/dataflow-kafka-beamsql/dataflow-metrics/src/main/java/org/metrics/pipeline/package-info.java">
+</file>
+<file name="/Users/sbalakrishnan/sothanai/java/dataflow-kafka-beamsql/dataflow-metrics/src/test/java/org/metrics/pipeline/SamplePipelineTest.java">
+</file>
+</checkstyle>

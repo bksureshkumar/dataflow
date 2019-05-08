@@ -1,0 +1,9 @@
+org/metrics/pipeline/SamplePipeline.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka$ReadKafka.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka$KafkaWrite.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka$KafkaPipelineOptions.class
+org/metrics/pipeline/KafkaAvroProducer.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka$RowToGenericRecordToKV.class
+org/metrics/pipeline/SamplePipeline$Options.class
+org/metrics/pipeline/KafkaAvroBeamSQLToKafka$KafkaRecordToRowFn.class
