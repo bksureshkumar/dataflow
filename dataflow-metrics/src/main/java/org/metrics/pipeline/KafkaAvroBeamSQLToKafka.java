@@ -51,7 +51,7 @@ public class KafkaAvroBeamSQLToKafka {
 
     private static final DateTimeFormatter FORMATTER = ISODateTimeFormat.hourMinute();
 
-    static final String OUTPUT_PATH = "gs://dataproc-pan/output/kafka_metadata/";  // Default output path
+    static final String OUTPUT_PATH = "gs://data-mydata/output/kafka_metadata/";  // Default output path
     static final String BOOTSTRAP_SERVERS = "kafka-cluster-10-nodes-w-0:9092";  // Default bootstrap kafka servers
     static final String IN_TOPIC = "avrotopic";  // Default kafka topic name
     static final String OUT_TOPIC = "outtopic";  // Default kafka topic name
